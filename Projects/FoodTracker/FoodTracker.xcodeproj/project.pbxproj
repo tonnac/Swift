@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0010926523B3445000F8A53F /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0010926423B3445000F8A53F /* RatingControl.swift */; };
 		13BA326923AB05AB005FC616 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13BA326823AB05AB005FC616 /* AppDelegate.swift */; };
 		13BA326B23AB05AB005FC616 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13BA326A23AB05AB005FC616 /* SceneDelegate.swift */; };
 		13BA326D23AB05AB005FC616 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13BA326C23AB05AB005FC616 /* ViewController.swift */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0010926423B3445000F8A53F /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 		13BA326523AB05AB005FC616 /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13BA326823AB05AB005FC616 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		13BA326A23AB05AB005FC616 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				13BA327123AB05AC005FC616 /* Assets.xcassets */,
 				13BA327323AB05AC005FC616 /* LaunchScreen.storyboard */,
 				13BA327623AB05AC005FC616 /* Info.plist */,
+				0010926423B3445000F8A53F /* RatingControl.swift */,
 			);
 			path = FoodTracker;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0010926523B3445000F8A53F /* RatingControl.swift in Sources */,
 				13BA326D23AB05AB005FC616 /* ViewController.swift in Sources */,
 				13BA326923AB05AB005FC616 /* AppDelegate.swift in Sources */,
 				13BA326B23AB05AB005FC616 /* SceneDelegate.swift in Sources */,
